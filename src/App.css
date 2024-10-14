@@ -1,0 +1,128 @@
+/* navbar */
+.container-navbar {
+  background-color: #333; 
+  padding: 10px 20px; 
+}
+
+.navbar {
+  display: flex; 
+  justify-content: space-between;
+  align-items: center; 
+}
+
+.navbar h1 {
+  color: #ffffff; 
+  margin: 0; 
+  font-size: 24px; 
+}
+
+ul {
+  list-style: none; 
+  padding: 0; 
+  margin: 0; 
+  display: flex; 
+}
+
+li {
+  margin: 0 15px; 
+}
+
+li a {
+  color: #ffffff; 
+  text-decoration: none; 
+  font-size: 18px; 
+}
+
+li a:hover {
+  color: #ffcc00; 
+}
+/* Mobile */
+.main {
+  padding: 20px;
+}
+
+.cat-main {
+  font-size: 40px; 
+  font-weight: bold; 
+  margin-bottom: 10px; 
+  text-align: center; 
+  color: red;
+}
+
+.container {
+  display: flex; /* Use flexbox for layout */
+  /* flex-wrap: wrap;  */
+  justify-content: center; 
+}
+
+.container-main {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #f9f9f9; 
+  border: 1px solid #ddd; 
+  border-radius: 5px; 
+  margin: 10px; 
+  padding: 15px; 
+  width: 300px; 
+  height: 450px;
+}
+
+
+.details {
+  text-align: center; 
+}
+
+.brand {
+  font-size: 22px; 
+  color: rgb(6, 6, 102);
+  margin: 10px 0; 
+}
+
+.desc {
+  font-size: 15px; 
+  color: #555; 
+  margin: 10px 0; 
+}
+
+/* Adjusting the image size */
+.container-main img {
+  width: 100%; 
+  height: 100%; 
+  max-height: 200px; 
+  /* object-fit: cover;  */
+}
+
+.buy-now {
+  display: inline-block; 
+  background-color: #28a745; 
+  color: white; 
+  padding: 10px 15px;
+  border-radius: 10px;
+  text-decoration: none; 
+  margin-bottom: 10px; 
+  margin-right: 10px;
+}
+
+.buy-now:hover {
+  background-color: #218838; 
+}
+
+.in-stock {
+  color: green; 
+  font-weight: bold; 
+}
+
+.out-of-stock {
+  color: red; 
+  font-weight: bold;
+}
+
+.low-stock {
+  color: orange; 
+  font-weight: bold; 
+}
+strike{
+  color: red;
+}
+pre{
+  font-size: 20px;
+}

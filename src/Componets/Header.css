@@ -1,0 +1,25 @@
+.header .navBar li a{
+    text-decoration: none;
+    color: blue;
+    
+}
+.header .navBar li{
+    list-style: none;
+  
+}
+.header .navBar{
+    display: flex;
+    gap: 150px;
+    font-weight: bold;
+    /* font-size: 15px; */
+}
+.header nav{
+    display: flex;
+   gap: 50px;
+   background-color: rgb(219, 117, 132);
+}
+.header h3{
+    margin-left: 35px;
+    margin-top: 15px;
+    color:blue;
+}
