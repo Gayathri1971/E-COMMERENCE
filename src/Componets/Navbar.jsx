@@ -6,8 +6,9 @@ export default function Navbar() {
         <nav className='navbar'>
           <h1>E-COMMERENCE</h1>
         <ul>
+          
           <li >
-          <Link to='/'>All Products</Link>
+          <Link to='/home'>All Products</Link>
         </li>
         <li >
           <Link to='/Mobile'>Mobile</Link>

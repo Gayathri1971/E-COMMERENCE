@@ -1,6 +1,7 @@
 export const mobile =
 [
     {
+        "id":1,
         "type": "mobile",
         "brand": "Apple",
         "model": "iPhone 14",
@@ -10,6 +11,7 @@ export const mobile =
         "stock":4
     },
     {
+        "id":2,
         "type": "mobile",
         "brand": "Samsung",
         "model": "Galaxy S22",
@@ -19,6 +21,7 @@ export const mobile =
         "stock":10
     },
     {
+        "id":3,
         "type": "mobile",
         "brand": "Google",
         "model": "Pixel 7",
@@ -27,6 +30,7 @@ export const mobile =
         "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/2/y/-original-imaggswcffkgcupp.jpeg?q=70",
     },
     {
+        "id":4,
         "type": "mobile",
         "brand": "OnePlus",
         "model": "9 Pro",
@@ -36,6 +40,7 @@ export const mobile =
         "stock":1
     },
     {
+        "id":5,
         "type": "mobile",
         "brand": "Xiaomi",
         "model": "Mi 12",
@@ -47,6 +52,7 @@ export const mobile =
 export const tv =
 [
     {
+        "id":1,
         "type": "tv",
         "brand": "Sony",
         "model": "Bravia XR",
@@ -56,6 +62,7 @@ export const tv =
         "stock":50
     },
     {
+        "id":2,
         "type": "tv",
         "brand": "Samsung",
         "model": "QLED 4K",
@@ -65,6 +72,7 @@ export const tv =
         "stock":4
     },
     {
+        "id":3,
         "type": "tv",
         "brand": "LG",
         "model": "OLED55CXPUA",
@@ -74,6 +82,7 @@ export const tv =
         "stock":9
     },
     {
+        "id":4,
         "type": "tv",
         "brand": "TCL",
         "model": "R635",
@@ -83,6 +92,7 @@ export const tv =
         // "stock":0
     },
     {
+        "id":5,
         "type": "tv",
         "brand": "Vizio",
         "model": "P-Series Quantum",
@@ -93,6 +103,7 @@ export const tv =
     }]
 export const laptop =[
     {
+        "id":1,
         "type": "laptop",
         "brand": "Apple",
         "model": "MacBook Air M2",
@@ -102,6 +113,7 @@ export const laptop =[
         "stock":50
     },
     {
+        "id":2,
         "type": "laptop",
         "brand": "Dell",
         "model": "XPS 13",
@@ -111,6 +123,7 @@ export const laptop =[
         "stock":1
     },
     {
+        "id":3,
         "type": "laptop",
         "brand": "HP",
         "model": "Spectre x360",
@@ -120,6 +133,7 @@ export const laptop =[
         "stock":3
     },
     {
+        "id":4,
         "type": "laptop",
         "brand": "Lenovo",
         "model": "ThinkPad X1 Carbon",
@@ -129,6 +143,7 @@ export const laptop =[
         // "stock":5
     },
     {
+        "id":5,
         "type": "laptop",
         "brand": "ASUS",
         "model": "ZenBook 14",
@@ -139,6 +154,7 @@ export const laptop =[
     }]
 export const tablet =[
     {
+        "id":1,
         "type": "tablet",
         "brand": "Apple",
         "model": "iPad Pro 12.9",
@@ -148,6 +164,7 @@ export const tablet =[
         "stock":9,
     },
     {
+        "id":2,
         "type": "tablet",
         "brand": "Samsung",
         "model": "Galaxy Tab S8",
@@ -157,6 +174,7 @@ export const tablet =[
         "stock":1
     },
     {
+        "id":3,
         "type": "tablet",
         "brand": "Microsoft",
         "model": "Surface Pro 8",
@@ -166,6 +184,7 @@ export const tablet =[
         "stock":4
     },
     {
+        "id":4,
         "type": "tablet",
         "brand": "Amazon",
         "model": "Fire HD 10",
@@ -174,6 +193,7 @@ export const tablet =[
         "image": "https://mms.businesswire.com/media/20210427005712/en/874164/4/Fire_HD_Colors.jpg"
     },
     {
+        "id":5,
         "type": "tablet",
         "brand": "Lenovo",
         "model": "Tab P11",
@@ -183,6 +203,7 @@ export const tablet =[
     }]
 export const printer =[
     {
+        "id":1,
         "type": "printer",
         "brand": "HP",
         "model": "LaserJet Pro",
@@ -192,6 +213,7 @@ export const printer =[
         "stock":5
     },
     {
+        "id":2,
         "type": "printer",
         "brand": "Canon",
         "model": "PIXMA TR8620",
@@ -200,6 +222,7 @@ export const printer =[
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxn73eRs-8CUhpiyynFGABGikWUzILoMqmw&s"
     },
     {
+        "id":3,
         "type": "printer",
         "brand": "Epson",
         "model": "EcoTank ET-2720",
@@ -209,6 +232,7 @@ export const printer =[
         "stock":2
     },
     {
+        "id":4,
         "type": "printer",
         "brand": "Brother",
         "model": "HL-L2350DW",
@@ -218,6 +242,7 @@ export const printer =[
         "stock":19
     },
     {
+        "id":5,
         "type": "printer",
         "brand": "Lexmark",
         "model": "MB2236adw",
